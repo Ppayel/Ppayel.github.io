@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Computer Science and Engineering, The University of Burdwan, 2015
+* M.E. in Computer Science and Engineering, Jadavpur University, 2019
+* Ph.D in Medical Image Analysis, Jadavpur University, Pursuing
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug, 2019 - Jan, 2020: Assistant Professor
+  * Future Institute Of Engineering and Management, Kolkata, India.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan, 2020 - Sept, 2021: Assistant Professor
+  * Future Institute of Technology, Kolkata, India.
+
+* Apr, 2021 - July, 2021: Visiting Faculty
+  * Indian Maritime University (IMU), Kolkata.
+
+* Nov, 2021 - Present: Lecturer in CST
+  * Department of Technical Education, Training & Skill Development, Govt. of West Bengal, India.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language
+  * c, Java, Python
+* Research paper writing
+  * Overleaf/ LaTeX
 
 Publications
 ======
@@ -54,6 +54,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
