@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "PAYEL PRAMANIK"
   avatar           : "profile.png"
-  bio              : "PhD Research Scholar at Jadavpur University, Lecturer in CST"
+  bio              : "PhD Research Scholar at Jadavpur University"
   location         : "Jadavpur, Kolkata, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kUl-0ugAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Payel-Pramanik"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+ # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
